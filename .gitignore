@@ -25,6 +25,7 @@ Release/
 *.ilk
 *.pch
 *.obj
+intermediate/
 
 # ---- CMake generated files ----
 CMakeFiles/

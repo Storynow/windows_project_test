@@ -17,7 +17,11 @@ int main()
 
     MyClass ins;
     ins.SayHello();
+    ins.SayHello();
     std::cout << "Hello World!\n";
+
+    test();
+    highfive();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

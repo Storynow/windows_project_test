@@ -8,3 +8,8 @@ public:
     MyClass();
     void SayHello();
 };
+
+
+extern "C" void MYDLL_API  test();
+
+extern "C" void MYDLL_API highfive();
