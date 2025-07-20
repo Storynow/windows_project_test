@@ -1,0 +1,69 @@
+# ---- Visual Studio generated files ----
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# ---- Build results ----
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+build/
+Debug/
+Release/
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.iobj
+*.ipdb
+*.log
+*.ilk
+*.pch
+*.obj
+
+# ---- CMake generated files ----
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+*.dir/
+
+# ---- NuGet Packages ----
+*.nupkg
+packages/
+*.snupkg
+
+# ---- Others ----
+*.log
+*.tmp
+*.bak
+*.old
+*.cache
+*.tlog/
+*.lastbuildstate
+
+# ---- Windows specific ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---- Ignore DLL and LIB if prebuilt ----
+*.dll
+*.lib
+*.exp
+
+# ---- Ignore auto-generated files ----
+*.idb
+*.sdf
+
+# ---- Ignore backups and editor files ----
+*~
+*.swp
+*.swn
+*.swo
